@@ -62,43 +62,45 @@
         <li>⚙️ Low coding.</li>
         <li>🐍 Average monty python enjoyer.</li>
       </ul>
-      <table>
-  <tr>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="UnityEngine" alt="UnityEnginr" width="40" height="40" />
-    </td>
-  </tr>
-</table>
-    </td>
-    <td>
+      <div align="center">
+        <table>
+            <tr>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+              </td>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+              </td>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+              </td>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+              </td>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+              </td>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+              </td>
+              <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="UnityEngine" alt="UnityEnginr" width="40" height="40" />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+      </div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigio42&hide=shaderlab,GLSL,HLSL&langs_count=6&layout=compact&theme=transparent&hide_border=true" alt="GitHub Streak" />
       <pre>
 ; NASM Hello World!
