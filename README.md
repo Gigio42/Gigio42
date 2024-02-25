@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/>
+  <!-- <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/> -->
   
   <div id="status">
     <a href="https://git.io/streak-stats">
@@ -28,24 +28,9 @@
     <td>
       <h4>= AboutMe.exe ==== ⎯ &nbsp❐ ⤬ =======</h4>
       A university student, pursuing a technical degree in system analysis and development. Currently creating my own portfolio static website. Loves studying, creating procedural generations, and using neural models for training machine learning models.           Enjoys reading sci-fi and experimenting with micro-controllers
-      <h5>Social: </h5>
-      <div id="badges">
-        <a href="https://www.instagram.com/darktails366/">
-          <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge"  />
-          &nbsp
-        </a>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.freecodecamp.org/DarkTails">
-          <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
-          &nbsp
-        </a>
-        <a href="https://discord.com/users/540321247427297280">
-          <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge"  />
-        </a>
-      </div>
       <h4>======== | OK | CANCEL | =======</h4>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="275" />
       </div>
     </td>
     <td>
@@ -126,6 +111,20 @@ _start:
     </td>
   </tr>
 </table>
+
+<div id="badges" align="center">
+    <a href="https://www.instagram.com/darktails366/">
+      <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge"  />
+      &nbsp
+    </a>
+    <a href="https://www.freecodecamp.org/DarkTails">
+      <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
+      &nbsp
+    </a>
+    <a href="https://discord.com/users/540321247427297280">
+      <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge"  />
+    </a>
+  </div>
 
 ```
                                       ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣞⣆⢀⣠⢶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
