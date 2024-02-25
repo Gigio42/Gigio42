@@ -1,20 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/>
   
-  
   <div id="status">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Gigio42&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
-  
-  
 
+<!-- Legacy code aka trash
   <br>
-  <!-- Not being able to use css sucks -->
-
-
-<!--  <div>
+   Not being able to use css sucks 
+ <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -30,7 +26,7 @@
 <table class="highlight tab-size js-file-line-container" >
   <tr>
     <td>
-      <h4>= AboutMe.exe ======= ⎯ &nbsp❐ ⤬ ====</h4>
+      <h4>= AboutMe.exe ==== ⎯ &nbsp❐ ⤬ =======</h4>
       A university student, pursuing a technical degree in system analysis and development. Currently creating my own portfolio static website. Loves studying, creating procedural generations, and using neural models for training machine learning models.           Enjoys reading sci-fi and experimenting with micro-controllers
       <h5>Social: </h5>
       <div id="badges">
@@ -47,7 +43,7 @@
           <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge"  />
         </a>
       </div>
-      <h4>=========== | OK | CANCEL | ====</h4>
+      <h4>======== | OK | CANCEL | =======</h4>
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="200" />
       </div>
@@ -149,7 +145,7 @@ _start:
 ```
 It's dangerous to go alone, take this capybara with you!
 
-<!-- Legacy code jk
+<!-- Stuff that was here, more trash
 **Gigio42/Gigio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
