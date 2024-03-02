@@ -86,7 +86,7 @@
         </td>
         <td>
       </div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigio42&hide=shaderlab,GLSL,HLSL&langs_count=6&layout=compact&theme=transparent&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigio42&hide=shaderlab,GLSL,HLSL,Jupyter%20Notebook&langs_count=6&layout=compact&theme=transparent&hide_border=true" alt="GitHub Streak" />
       <pre>
 ; NASM Hello World!
 section .data
