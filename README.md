@@ -1,8 +1,3 @@
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Gigio42/Gigio42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Gigio42/Gigio42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/> -->
   
@@ -117,19 +112,12 @@ _start:
   </tr>
 </table>
 
-<div id="badges" align="center">
-    <a href="https://www.instagram.com/darktails366/">
-      <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge"  />
-      &nbsp
-    </a>
-    <a href="https://www.freecodecamp.org/DarkTails">
-      <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
-      &nbsp
-    </a>
-    <a href="https://discord.com/users/540321247427297280">
-      <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge"  />
-    </a>
-  </div>
+<div align="center">
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Gigio42/Gigio42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Gigio42/Gigio42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+</div>
 
 ```
                                       ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣞⣆⢀⣠⢶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -149,7 +137,20 @@ _start:
                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠟⠿⡿⠕⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣾⠉⣹⣷⣟⣚⣁⡼⠁⠀⠀⠀⠀⠀
                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-It's dangerous to go alone, take this capybara with you!
+
+<div id="badges" align="center">
+    <a href="https://www.instagram.com/darktails366/">
+      <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge"  />
+      &nbsp
+    </a>
+    <a href="https://www.freecodecamp.org/DarkTails">
+      <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
+      &nbsp
+    </a>
+    <a href="https://discord.com/users/540321247427297280">
+      <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge"  />
+    </a>
+  </div>
 
 <!-- Stuff that was here, more trash
 **Gigio42/Gigio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
