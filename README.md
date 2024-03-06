@@ -1,13 +1,6 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/Gigio42/Gigio42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/> -->
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
   
   <div id="status">
     <a href="https://git.io/streak-stats">
