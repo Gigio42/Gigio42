@@ -1,3 +1,5 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/Gigio42/Gigio42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/> -->
 
