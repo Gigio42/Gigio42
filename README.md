@@ -26,11 +26,22 @@
 <table class="highlight tab-size js-file-line-container" >
   <tr>
     <td>
-      <h4>= AboutMe.exe ==== ⎯ &nbsp❐ ⤬ =======</h4>
+      <h4>= AboutMe.exe ==== ⎯ &nbsp❐ ⤬ ===</h4>
       A university student, pursuing a technical degree in system analysis and development. Currently creating my own portfolio static website. Loves studying, creating procedural generations, and using neural models for training machine learning models.           Enjoys reading sci-fi and experimenting with micro-controllers
-      <h4>======== | OK | CANCEL | =======</h4>
+      <h4>======== | OK | CANCEL | ===</h4>
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="275" />
+        <p align="center">
+    <a href="https://www.instagram.com/darktails366/">
+        <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge" />
+    </a>
+    <a href="https://www.freecodecamp.org/DarkTails">
+        <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
+    </a>
+    <a href="https://discord.com/users/540321247427297280">
+        <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge" />
+    </a>
+</p>
       </div>
     </td>
     <td>
@@ -138,19 +149,8 @@ _start:
                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<div id="badges" align="center">
-    <a href="https://www.instagram.com/darktails366/">
-      <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge"  />
-      &nbsp
-    </a>
-    <a href="https://www.freecodecamp.org/DarkTails">
-      <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
-      &nbsp
-    </a>
-    <a href="https://discord.com/users/540321247427297280">
-      <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&color=222222" alt="Discord Badge"  />
-    </a>
-  </div>
+<img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="200" height="200"> <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="200" height="200">
+
 
 <!-- Stuff that was here, more trash
 **Gigio42/Gigio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
