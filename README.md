@@ -26,9 +26,10 @@
 <table class="highlight tab-size js-file-line-container" >
   <tr>
     <td>
-      <h4>= AboutMe.exe ==== ⎯ &nbsp❐ ⤬ ===</h4>
-      A university student, pursuing a technical degree in system analysis and development. Currently creating my own portfolio static website. Loves studying, creating procedural generations, and using neural models for training machine learning models.           Enjoys reading sci-fi and experimenting with micro-controllers
-      <h4>======== | OK | CANCEL | ===</h4>
+      <h4>= AboutMe.exe ======= ⎯ &nbsp❐ ⤬ ==</h4>
+      A university student, pursuing a technical degree in system analysis and development. Currently creating my own portfolio static website. 
+      <p>Loves studying, creating procedural generations, and using neural models for training machine learning models. Enjoys reading sci-fi and experimenting with micro-controllers.
+      <h4>=========== | OK | CANCEL | ==</h4>
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="275" />
         <p align="center">
