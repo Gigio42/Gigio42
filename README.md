@@ -33,9 +33,6 @@
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="275" />
         <p align="center">
-    <a href="https://www.instagram.com/darktails366/">
-        <img src="https://img.shields.io/badge/insta-white?style=for-the-badge&logo=Instagram&color=222222" alt="Instagram Badge" />
-    </a>
     <a href="https://www.freecodecamp.org/DarkTails">
         <img src="https://img.shields.io/badge/FreeCodeCamp-white?style=for-the-badge&logo=freecodecamp&color=444444" alt="FreeCodeCamp Badge"/>
     </a>
