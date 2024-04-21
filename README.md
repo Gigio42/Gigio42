@@ -57,41 +57,64 @@
         <li>🐍 Average monty python enjoyer.</li>
       </ul>
       <div align="center">
-        <table>
-            <tr>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-              </td>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-              </td>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-              </td>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-              </td>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-              </td>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-              </td>
-              <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="UnityEngine" alt="UnityEnginr" width="40" height="40" />
-              </td>
-            </tr>
-          </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VisualStudio" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" alt="Fastify" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" />
+    </td>
+  </tr>
+</table>
         </td>
         <td>
       </div>
