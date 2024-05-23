@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="100"/>
   
   <div id="status">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Gigio42&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gigio42&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
   </div>
 </div>
 
@@ -135,8 +133,9 @@ _start:
     </td>
   </tr>
 </table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=28a745&point=34d058&area_color=40c463&title_color=e8edf3&area=true&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true"/>
+
 
 ```
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
