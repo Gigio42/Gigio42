@@ -39,12 +39,10 @@
         <li>🎮 Game developer/addict.</li>
         <li>🛐 Math and programming devote.</li>
         <li>☕️ Favorite language: C#</li>
-        <li>🐧 Favorite linux distro: Arch</li>
         <li>🧠 Machine learn learner.</li>
         <li>🎨 Artist/Designer.</li>
-        <li>🎵 Music enthusiast.</li>
         <li>⚙️ Low coding.</li>
-        <li>🐍 Average monty python enjoyer.</li>
+        <li>🐍 monty python enjoyer.</li>
       </ul>
       <div align="center">
 <table>
@@ -108,7 +106,7 @@
         </td>
         <td>
       </div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigio42&hide=shaderlab,GLSL,HLSL,Jupyter%20Notebook&langs_count=6&layout=compact&theme=transparent&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigio42&hide=shaderlab,GLSL,HLSL,Jupyter%20Notebook&langs_count=6&layout=compact&theme=transparent&bg_color=0d1017&title_color=ffffff&border_color=ffffff&hide_border=true" alt="GitHub Streak" />
       <pre>
 ; NASM Hello World!
 section .data
@@ -133,8 +131,8 @@ _start:
     </td>
   </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=28a745&point=34d058&area_color=40c463&title_color=e8edf3&area=true&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=28a745&point=34d058&area_color=40c463&title_color=e8edf3&area=true&hide_border=true" />
 
 
 ```
