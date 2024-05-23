@@ -15,6 +15,8 @@
   
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true"/>
+
 <table class="highlight tab-size js-file-line-container" >
   <tr>
     <td>
@@ -135,10 +137,6 @@ _start:
     </td>
   </tr>
 </table>
-
-<figure>
-  <img src="https://wakatime.com/share/@018df0f6-f5aa-4b7c-b20d-0fbb8b7232c7/3e6b5ba0-8aa8-47d7-afea-b0c07aa720da.svg" alt="Gráfico do WakaTime">
-</figure>
 
 ```
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
