@@ -15,8 +15,6 @@
   
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true"/>
-
 <table class="highlight tab-size js-file-line-container" >
   <tr>
     <td>
@@ -137,6 +135,8 @@ _start:
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true"/>
 
 ```
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
