@@ -17,7 +17,7 @@
   <tr>
     <td>
       <h4>= AboutMe.exe ======= ⎯ &nbsp❐ ⤬ ==</h4>
-      A university student, pursuing a technical degree in system analysis and development. Currently creating my own portfolio static website. 
+      A university student, pursuing a technical degree in system analysis and development. Currently creating an inventory management system & learning Java. 
       <p>Loves studying, creating procedural generations, and using neural models for training machine learning models. Enjoys reading sci-fi and experimenting with micro-controllers.
       <h4>=========== | OK | CANCEL | ==</h4>
       <div align="center">
