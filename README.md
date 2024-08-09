@@ -132,6 +132,17 @@ _start:
   </tr>
 </table>
 
+## Collaborative Projects
+
+<div>
+  <a href="https://github.com/jucalast/PI3Semestre">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jucalast&repo=PI3Semestre&theme=dark" alt="PI3Semestre" />
+  </a>
+  <a href="https://github.com/Gigio42/PiSegundoSem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gigio42&repo=PiSegundoSem&theme=dark" alt="PiSegundoSem" />
+  </a>
+</div>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gigio42&custom_title=Gigio's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=28a745&point=34d058&area_color=40c463&title_color=e8edf3&area=true&hide_border=true" />
 
 
