@@ -18,7 +18,7 @@
     <td>
       <h4>= AboutMe.exe ========= ⎯ &nbsp❐ ⤬ </h4>
       <p>A university student pursuing a technical degree in Systems Analysis and Development, currently working as a cybersecurity dev professional in the banking sector.</p>
-      <p>Passionate about studying procedural generation, and training machine learning models using neural networks. Avid reader of sci-fi literature and an admirer of talented people who does random useless shit.</p>
+      <p>Passionate about studying procedural generation, and training machine learning models using neural networks. Avid reader of sci-fi literature and an admirer of talented people who does random useless  things. </p>
       <h4>=========== | OK | CANCEL | ==</h4>
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxOHB3MDJ4MGlyaHdxbjEycTR5OXE3YW53b29hc2t6OXRrYzJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="275" />
